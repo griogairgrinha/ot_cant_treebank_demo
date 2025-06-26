@@ -1,0 +1,59 @@
+'דַּבֶּרְךָ' in Ex 4:10a has no accent sign. BHS reads 10a sic L, mlt Mss Edd TIPHA
+
+Ex 5:6a 'יִשְׂרָאֵ֨ל' Zarqa mistakenly coded as tsinnorit in WTM
+
+'מֹשֶׁה' in Ex 9:22 has no accent sign. BHS reads 22a sic L, mlt Mss Edd Rebia
+
+Num 12:9 BHS reads 9a-a sic L, mlt Mss Edd MAQQEF
+
+Deu 4:46 bne yisra'el looks like a MAQQEF was lost 
+
+
+
+'בְרֵֽעֲךָ' in Deu 24:10a has no accent sign. BHS reads 10b sic L, mlt Mss Edd TIPHA
+
+'וּֽבְזַרְעֲךָ' in 2Ki 5:27a has no accent sign. BHS reads 27a sic L, mlt Mss Edd TIPHA
+
+' עָשֽׂוּ' in Jdg 6:2 has no maqqef a sic L, mlt Mss Edd MAQQEF
+
+in 1Sa 14:24 d sic L, mlt Mss Edd MAQQEF
+
+'' in Jdg 20:36b a sic L, mlt Mss Edd MEREKA
+identical for 1Sa 13:4
+
+im in Sol 7:13 b sic L, mlt Mss Edd MAQQEF
+
+Ezr 4:14 arikh mereka in BHS in place of silluq in wtm
+Est 5:14 el-hammishte MAQQEF missing in wtm (present in BHS)
+
+' את' in Jer 32:13 has no maqqef a sic L, mlt Mss Edd MAQQEF
+
+'be yad' in Jer 34:21 no accent. either there had been a now lost connective or a maqqef. no identifiable connective in CL and no comment in BHS
+
+GEBUL in Eze 43:17 no accent d sic L, mlt Mss Edd TELISHA PARVUM
+' את' in Eze 46:12  has no maqqef a sic L, mlt Mss Edd MAQQEF
+
+
+---BASED ON CODEX LENINGRADENSIUM---
+assume Geresh instead of Mughrash in Lev 1:3b (petah)
+assume Pashta in 2Sa 23:9 (pelishtim)
+assume MAQQEF in 2Sa 24:13 (sheba')
+assume MAQQEF in 1Ch 22:4 (ki)
+
+in 2Ki 18:27 et missing MAQQEF (in len. + no remark on that ib bhs)
+
+2Ki 17:13 HIGHLY HYPOTHETICAL GERESH AS A TEMPORARY SOLUTION
+
+Hos 2:16b " 'al " no MAQQEF in wtm (present in BHS)
+
+Oba 1:1 " 'aleha " no TIPHA in wtm (present in BHS)
+
+Mic 5:7a " 'adre " no MAQQEF in wtm (present in BHS)
+Mic 5:7b " 'im " no MAQQEF BHS reads b sic L, Mss Edd MAQQEF 
+
+Hab 2:8 ' ki ' no accent, maqqef absent, meteg present (in CL and BHS). assuming MAQQEF
+
+Lam 2:3a " bahari (bohori) " no MAQQEF in wtm (present in BHS)
+
+tkinter
+matplotlib
